@@ -1,1 +1,1 @@
-# discober-al-hoceima
+# discover-al-hoceima
